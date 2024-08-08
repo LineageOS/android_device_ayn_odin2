@@ -32,8 +32,7 @@ PRODUCT_COPY_FILES += \
 # Overlay
 PRODUCT_PACKAGES += \
     Frameworks-Odin2-Overlay \
-    LineageSDK-Odin2-Overlay \
-    SettingsProvider-Odin2-Overlay
+    LineageSDK-Odin2-Overlay
 
 # Recovery
 PRODUCT_PACKAGES += \
