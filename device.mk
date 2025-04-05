@@ -7,9 +7,14 @@
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/idc/synaptics_dsx.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/synaptics_dsx.idc
 
+# Lights
+PRODUCT_PACKAGES += \
+    android.hardware.light-service.lineage
+
 # Overlay
 PRODUCT_PACKAGES += \
     Frameworks-Odin2-Overlay \
+    LineageSDK-Odin2-Overlay \
     SettingsProvider-Odin2-Overlay
 
 # Soong namespaces
