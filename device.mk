@@ -3,6 +3,10 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
+# IDC
+PRODUCT_COPY_FILES += \
+    $(LOCAL_PATH)/configs/idc/synaptics_dsx.idc:$(TARGET_COPY_OUT_VENDOR)/usr/idc/synaptics_dsx.idc
+
 # Overlay
 PRODUCT_PACKAGES += \
     Frameworks-Odin2-Overlay \
