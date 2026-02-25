@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "00ad9cb3_7bf6af27",
+        "filename": "lineage_odin2.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-02-25T06:23:56Z",
+      "side": 1,
+      "message": "Likely needs adjustment",
+      "range": {
+        "startLine": 20,
+        "startChar": 0,
+        "endLine": 20,
+        "endChar": 2
+      },
+      "revId": "e40bbf5ae6c4565bde29ab014f73c1a8b55f8ef1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5edd1104_77dc6490",
+        "filename": "lineage_odin2.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 28,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-02-25T06:23:56Z",
+      "side": 1,
+      "message": "Carried over from portal. Needs to be pulled from stock",
+      "range": {
+        "startLine": 27,
+        "startChar": 0,
+        "endLine": 28,
+        "endChar": 93
+      },
+      "revId": "e40bbf5ae6c4565bde29ab014f73c1a8b55f8ef1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "cc871b0e_cfe3743e",
+        "filename": "lineage_odin2.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 29,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-02-25T06:23:56Z",
+      "side": 1,
+      "message": "Likely needs adjustment",
+      "range": {
+        "startLine": 29,
+        "startChar": 0,
+        "endLine": 29,
+        "endChar": 2
+      },
+      "revId": "e40bbf5ae6c4565bde29ab014f73c1a8b55f8ef1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
