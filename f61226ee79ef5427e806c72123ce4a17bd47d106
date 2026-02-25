@@ -16,6 +16,29 @@
       "message": "Missing fingerprint blobs and props. Will be added soon-ish",
       "revId": "f61226ee79ef5427e806c72123ce4a17bd47d106",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "62a20ddd_42c51f7a",
+        "filename": "proprietary-files.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 29242
+      },
+      "writtenOn": "2026-02-25T06:22:13Z",
+      "side": 1,
+      "message": "Needs to be populated",
+      "range": {
+        "startLine": 2,
+        "startChar": 3,
+        "endLine": 2,
+        "endChar": 8
+      },
+      "revId": "f61226ee79ef5427e806c72123ce4a17bd47d106",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
