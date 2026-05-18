@@ -73,3 +73,7 @@ vendor/firmware/mcuapp_firmware.bin
 
 # Display calibration data
 vendor/etc/display/qdcm_calib_data_nt35532_video_mode_dsi_panel_without_DSC.json:vendor/etc/display/qdcm_calib_data_td4328_video_mode_dsi_panel_without_DSC.json
+
+# Fingerprint
+vendor/bin/ff_ta.elf
+vendor/lib64/hw/fingerprint.default.so:vendor/lib64/hw/fingerprint.qcom.so;FIX_SONAME
