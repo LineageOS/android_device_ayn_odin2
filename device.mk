@@ -31,6 +31,10 @@ PRODUCT_PACKAGES += \
     LineageSDK-Odin2-Overlay \
     SettingsProvider-Odin2-Overlay
 
+# Recovery
+PRODUCT_PACKAGES += \
+    recovery_rgb
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
