@@ -6,6 +6,10 @@
 # AAPT
 PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 
+# Charger
+PRODUCT_PACKAGES += \
+    charger_rgb
+
 # Fingerprint
 PRODUCT_PACKAGES += \
     android.hardware.biometrics.fingerprint-service.lineage
