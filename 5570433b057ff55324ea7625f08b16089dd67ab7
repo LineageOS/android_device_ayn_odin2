@@ -16,6 +16,23 @@
       "message": "Still needs to be tested properly before merging.",
       "revId": "5570433b057ff55324ea7625f08b16089dd67ab7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "10d8eb0f_2581c60d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32253
+      },
+      "writtenOn": "2026-08-17T14:47:54Z",
+      "side": 1,
+      "message": "just realised SensorStrength is supposed to be already set by the AIDL fingerprint service (the overlay is ignored on HIDL), Add a print on the fingerprint service and figure out why is not `STRONG`. Worst case scenario, just hardcode it to `STRONG` on commonProps",
+      "revId": "5570433b057ff55324ea7625f08b16089dd67ab7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
