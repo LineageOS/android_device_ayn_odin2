@@ -33,6 +33,23 @@
       "message": "pick Id3385edc784b2053c8b54ec3153728f4e6e22a45 instead",
       "revId": "104a5f4f05463b73c498198733ead797c5c67a46",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "4dd84389_ae67b740",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 35591
+      },
+      "writtenOn": "2026-08-17T14:33:22Z",
+      "side": 1,
+      "message": "Oh yeah makes sense. I\u0027ll abandon this change then.",
+      "revId": "104a5f4f05463b73c498198733ead797c5c67a46",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
